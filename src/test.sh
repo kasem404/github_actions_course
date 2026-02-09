@@ -6,4 +6,4 @@ exit 0
 else
 echo "test failed"
 exit 1
-fi
+
